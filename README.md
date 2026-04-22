@@ -29,3 +29,7 @@ You need the `ncurses` library to play.
 **On Linux (Ubuntu/Debian):**
 ```bash
 sudo apt-get install libncurses5-dev libncursesw5-dev
+```
+To play the game, either download and extract the compressed zip directly from the GitHub page, or `gh repo clone Jaymax1503/TWO-CARS` if using GitHub terminal client, or clone [https://github.com/Jaymax1503/TWO-CARS](https://github.com/Jaymax1503/TWO-CARS)  
+The instructions to play the game are very simple and clearly mentioned at the start of the game.
+
