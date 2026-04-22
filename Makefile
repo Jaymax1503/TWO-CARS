@@ -1,8 +1,6 @@
-CC = gcc
-LIBS = -lncurses -lm
-
 two_cars: two_cars.c
-	$(CC) -o game two_cars.c $(LIBS)
+	gcc -o game two_cars.c -lncurses
 
 clean:
 	rm -f two_cars
+ 
